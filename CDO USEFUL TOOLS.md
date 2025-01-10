@@ -9,7 +9,7 @@ Here are some examples I have used, its quick and easy command lines run from in
     port install cdo
 
 Here is a link to a reference card for all the operations you can perform to data with CDO:
-[http://www.iac.ethz.ch/edu/courses/master/modules/radiation_and_climate_change/download/cdo_refcard.pdf](http://www.iac.ethz.ch/edu/courses/master/modules/radiation_and_climate_change/download/cdo_refcard.pdf)
+[CDO Reference Card](https://scicomp.ethz.ch/public/manual/CDO/1.6.4/cdo_refcard.pdf)
 
 
 Examples:
